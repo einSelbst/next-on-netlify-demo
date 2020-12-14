@@ -4,7 +4,7 @@
 
 This is a demo of a Next.js application with Server-Side Rendering (SSR).
 
-View the demo: [https://next-on.netlify.app](https://next-on.netlify.app)
+View the demo: [https://keen-meninsky-c5041a.netlify.app](https://keen-meninsky-c5041a.netlify.app)
 
 The demo is hosted on Netlify. Minimal configuration required thanks to [the next-on-netlify npm package](https://www.npmjs.com/package/next-on-netlify).
 next-on-netlify makes server-side rendering possible by using Netlify functions under the hood.
